@@ -189,7 +189,8 @@ while n < 10:
 d = {'Michael': 95, 'Bob': 75, 'Tracy': 85}  
 # key 可以是字符串或数字  ， value 可以是数值或类型是数值的变量 或 字符串 ， 
 #只可以用key查找value
-print(d['Michael'])mport functools
+print(d['Michael'])
+import functools
 
 #修改字典，增加字典条数，（字典的名称是  d ）
 d['Adam'] = 67
